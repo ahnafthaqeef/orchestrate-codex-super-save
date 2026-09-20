@@ -1,0 +1,7 @@
+interface:
+  display_name: "Orchestrate Super Save"
+  short_description: "Luna-only routing with minimal delegation"
+  default_prompt: "Use $orchestrate-super-save to route this task with minimal delegation overhead."
+policy:
+  allow_implicit_invocation: false
+
